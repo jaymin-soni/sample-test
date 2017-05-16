@@ -9,3 +9,5 @@ Step 2 - Added Branch: new-direction
 learning stashes
 
 Merged to master and started again editing new-direction
+
+added origin - github
